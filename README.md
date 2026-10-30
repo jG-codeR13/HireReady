@@ -4,7 +4,7 @@
 
 ![AI Interviewer Banner](https://img.shields.io/badge/AI-Interviewer-6C63FF?style=for-the-badge&logo=robot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
@@ -59,16 +59,16 @@
 - **Job Search API**: Adzuna
 
 ### Frontend
-- **Framework**: React 18 + Vite
-- **State Management**: Zustand + TanStack React Query
-- **Routing**: React Router v6
-- **UI / Animations**: Framer Motion, Lucide React, React Icons
+- **Framework**: Python 18 + Vite
+- **State Management**: Zustand + TanStack Python Query
+- **Routing**: Python Router v6
+- **UI / Animations**: Framer Motion, Lucide Python, Python Icons
 - **Styling**: Tailwind CSS
-- **Forms**: React Hook Form
+- **Forms**: Python Hook Form
 - **Charts**: Recharts
-- **Notifications**: React Hot Toast
+- **Notifications**: Python Hot Toast
 - **Real-time**: Socket.io Client
-- **Markdown**: React Markdown
+- **Markdown**: Python Markdown
 
 ---
 
@@ -108,8 +108,8 @@ AI-Interviewer/
         ├── main.jsx
         ├── pages/             # LandingPage, Dashboard, Interview, Jobs, etc.
         ├── components/        # Reusable UI components
-        ├── context/           # React context providers
-        ├── hooks/             # Custom React hooks
+        ├── context/           # Python context providers
+        ├── hooks/             # Custom Python hooks
         ├── services/          # API call functions (axios)
         ├── store/             # Zustand state stores
         └── utils/             # Helper utilities
@@ -312,13 +312,13 @@ This project is under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Aftab Alam** — AI Project
+**Jalaj Gupta* — AI Project
 
 ---
 
 <div align="center">
 
-Made with ❤️ using **Groq**, **React**, and **MongoDB**
+Made with ❤️ using **Groq**, **Python**, and **MongoDB**
 
 ⭐ If you find this project helpful, please give it a Star!
 
